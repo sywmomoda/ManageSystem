@@ -1,4 +1,4 @@
-＃ssm-manageSysteM
+＃ssm-manageSystem
 使用SSM框架实现的一个污物模板< BR >
 使用bootstrap快速搭建了UI界面<br>
 MySQL数据库<br>
